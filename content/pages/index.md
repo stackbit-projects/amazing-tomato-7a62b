@@ -43,7 +43,7 @@ sections:
           - mb-0
         padding:
           - pt-4
-          - pb-12
+          - pb-32
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
